@@ -3,6 +3,14 @@
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="50%">
 </p>
 
+- 📖 I'm studying in DLUT, major in Network Security.
+- 💻 I’m currently working on SSS(Screw Cyper Security Studio)
+- 👻 I’m currently learning PWN
+- 🔥 I’m the Captain of Scr1w
+- 🤔 I’m looking for teammates who interested in CTF
+- 💬 Ask me about anything
+- 📫 How to reach me: [E-mail](loora1n123@163.com)
+
 ```c
  ___       ________  ________  ________  ________    _____  ________      
 |\  \     |\   __  \|\   __  \|\   __  \|\   __  \  / __  \|\   ___  \    
@@ -13,13 +21,3 @@
     \|_______|\|_______|\|_______|\|__|\|__|\|__|\|__|    \|__|\|__| \|__|
                                                                           
 ```
-
-- 📖 I'm studying in DLUT, major in Network Security.
-- 💻 I’m currently working on SSS(Screw Cyper Security Studio)
-- 👻 I’m currently learning PWN
-- 🔥 I’m the Captain of Scr1w
-- 🤔 I’m looking for teammates who interested in CTF
-- 💬 Ask me about anything
-- 📫 How to reach me: [E-mail](loora1n123@163.com)
-
-
