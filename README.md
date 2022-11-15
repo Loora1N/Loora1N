@@ -1,24 +1,25 @@
-### Hi there, I'm Loora1N 👋
-[hello world]()
-- 🔭 I’m currently working on SSS(Screw Cyper Security Studio)
-- 🌱 I’m currently learning PWN
+### Hi there, I'm [Loora1N](https://loora1n.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
+</p>
+
+```c
+ ___       ________  ________  ________  ________    _____  ________      
+|\  \     |\   __  \|\   __  \|\   __  \|\   __  \  / __  \|\   ___  \    
+\ \  \    \ \  \|\  \ \  \|\  \ \  \|\  \ \  \|\  \|\/_|\  \ \  \\ \  \   
+ \ \  \    \ \  \\\  \ \  \\\  \ \   _  _\ \   __  \|/ \ \  \ \  \\ \  \  
+  \ \  \____\ \  \\\  \ \  \\\  \ \  \\  \\ \  \ \  \   \ \  \ \  \\ \  \ 
+   \ \_______\ \_______\ \_______\ \__\\ _\\ \__\ \__\   \ \__\ \__\\ \__\
+    \|_______|\|_______|\|_______|\|__|\|__|\|__|\|__|    \|__|\|__| \|__|
+                                                                          
+```
+
+- 📖 I'm studying in DLUT, major in Network Security.
+- 💻 I’m currently working on SSS(Screw Cyper Security Studio)
+- 👻 I’m currently learning PWN
 - 🔥 I’m the Captain of Scr1w
 - 🤔 I’m looking for teammates who interested in CTF
-- 💬 Here is my [blog](https://loora1n.github.io/)
-- 📫 How to reach me: loora1n123@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**Loora1N/Loora1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about anything
+- 📫 How to reach me: [E-mail](loora1n123@163.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
