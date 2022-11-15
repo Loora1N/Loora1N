@@ -9,7 +9,7 @@
 - 🔥 I’m the Captain of [Scr1w](https://ctftime.org/team/176565)
 - 🤔 I’m looking for teammates who interested in CTF
 - 💬 Ask me about anything
-- 📫 How to reach me: [E-mail](loora1n123@163.com)
+- 📫 How to reach me: loora1n123@163.com
 
 ```c
  ___       ________  ________  ________  ________    _____  ________      
