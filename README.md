@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi there, I'm Loora1N 👋
+[hello world]()
+- 🔭 I’m currently working on SSS(Screw Cyper Security Studio)
+- 🌱 I’m currently learning PWN
+- 🔥 I’m the Captain of Scr1w
+- 🤔 I’m looking for teammates who interested in CTF
+- 💬 Here is my [blog](https://loora1n.github.io/)
+- 📫 How to reach me: loora1n123@163.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **Loora1N/Loora1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
