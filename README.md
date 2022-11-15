@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="50%">
 </p>
 
-- 📖 I'm studying in DLUT, major in Network Security.
+- 📖 I'm studying in DLUT, major in CyberSpace Security.
 - 💻 I’m currently working on SSS(Screw Cyper Security Studio)
 - 👻 I’m currently learning PWN
 - 🔥 I’m the Captain of Scr1w
