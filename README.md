@@ -4,9 +4,9 @@
 </p>
 
 - 📖 I'm studying in DLUT, major in CyberSpace Security.
-- 💻 I’m currently working on SSS(Screw Cyper Security Studio)
+- 💻 I’m currently working on [SSS(Screw Cyper Security Studio)](https://github.com/dlut-sss)
 - 👻 I’m currently learning PWN
-- 🔥 I’m the Captain of Scr1w
+- 🔥 I’m the Captain of [Scr1w](https://ctftime.org/team/176565)
 - 🤔 I’m looking for teammates who interested in CTF
 - 💬 Ask me about anything
 - 📫 How to reach me: [E-mail](loora1n123@163.com)
