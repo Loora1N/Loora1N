@@ -7,9 +7,9 @@
 - 💻 I’m currently working on [SSS(Screw Cyper Security Studio)](https://github.com/dlut-sss)
 - 👻 I’m currently learning PWN
 - 🔥 I’m the Captain of [Scr1w](https://ctftime.org/team/176565)
-- 🤔 I’m looking for teammates who interested in CTF
+- 🤔 I’m looking for teammates who is interested in CTF
 - 💬 Ask me about anything
-- 📫 How to reach me: loorain123@163.com
+- 📫 How to contact me: loorain123@163.com
 
 ```c
  ___       ________  ________  ________  ________    _____  ________      
