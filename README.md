@@ -16,7 +16,7 @@
 - 🔥 I’m the Captain of [Scr1w](https://ctftime.org/team/176565)
 - 😎 Welcome to my personal [blog](https://loora1n.github.io/)
 
-<img style="width:45%;" src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
+<img style="width:70%;" src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Loora1N)
 ![](https://visitor-badge.glitch.me/badge?page_id=Loora1N)
