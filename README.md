@@ -13,8 +13,10 @@
 
 - 📖 I'm studying in DLUT, major in CyberSpace Security.
 - 💻 I’m currently working on [SSS(Screw Cyper Security Studio)](https://github.com/dlut-sss)
-- 🔥 I’m the Captain of [Scr1w](https://ctftime.org/team/176565)
+- 👻 I'm currently doing security research related to IOT and eBPF.
+- 🔥 I used be the Captain of [Scr1w](https://ctftime.org/team/176565)
 - 😎 Welcome to my personal [blog](https://loora1n.github.io/)
+
 
 <img style="width:70%;" src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
 
