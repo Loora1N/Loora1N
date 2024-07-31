@@ -11,7 +11,7 @@
                                                                           
 ```
 
-![:name](https://count.getloli.com/get/@:111?theme=rule34)
+![:name](https://count.getloli.com/get/@:111?theme=gelbooru)
 
 - 📖 I'm studying in DLUT, major in CyberSpace Security.
 - 💻 I’m currently working on [SSS(Screw Cyper Security Studio)](https://github.com/dlut-sss)
