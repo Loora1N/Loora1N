@@ -18,7 +18,7 @@
 - 👻 I'm currently doing security research related to anything hardcore and interested.
 - 🔥 I used be the Captain of [Scr1w](https://ctftime.org/team/176565).
 - 😎 Welcome to my personal [blog](https://loora1n.github.io/).
-
+- 📧 E-mail: loorain917@gmail.com
 
 <img style="width:70%;" src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
 
