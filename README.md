@@ -20,14 +20,14 @@
 
 <table border="0">
  <tr>
+   <td>
+<img src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
+ </td>
   <td>
    
 ![](https://count.getloli.com/get/@:Loora1N?theme=rule34)
 
   </td>
- <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
- </td>
  </tr>
 </table>
 
