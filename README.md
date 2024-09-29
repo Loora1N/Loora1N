@@ -11,8 +11,6 @@
                                                                           
 ```
 
-![](https://count.getloli.com/get/@:111?theme=gelbooru)
-
 - 📖 Bachelor's degree from DLUT, major in CyberSpace Security.
 - 💻 I used to work at [SSS(Screw Cyper Security Studio)](https://github.com/dlut-sss).
 - 👻 I'm currently doing security research related to anything hardcore and interested.
@@ -20,8 +18,20 @@
 - 😎 Welcome to my personal [blog](https://loora1n.github.io/).
 - 📧 E-mail: loorain917@gmail.com
 
-<img style="width:70%;" src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
+<table border="0">
+ <tr>
+  <td>
+   
+![](https://count.getloli.com/get/@:Loora1N?theme=rule34)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Loora1N)
+  </td>
+ <td>
+<img src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&theme=tokyonight">
+ </td>
+ </tr>
+</table>
+
+ ![](https://github-readme-activity-graph.vercel.app/graph?username=Loora1N)
+
 
 
