@@ -25,7 +25,7 @@
  </td>
   <td>
    
-![](https://count.getloli.com/get/@:Loora1N?theme=rule34)
+![](https://count.getloli.com/get/@:Loora1N?theme=rule34&darkmode=0)
 
   </td>
  </tr>
