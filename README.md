@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:111827,100:312E81&height=220&section=header&text=Rain%20Loo&fontSize=56&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Low-level%20Systems%20%7C%20CTF&descAlignY=58&descSize=16"
-    alt="Rain Loo — Security Researcher"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:111827,100:312E81&height=220&section=header&text=Loora1N&fontSize=56&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Low-level%20Systems%20%7C%20CTF&descAlignY=58&descSize=16"
+    alt="Loora1N — Security Researcher"
     width="100%"
   />
 
@@ -78,26 +78,13 @@ I work close to the metal: exploring how systems behave, how they fail, and how 
 
 ### GitHub Activity
 
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Loora1N&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loora1N&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Top languages"
-  />
-</div>
+The live contribution calendar, activity timeline, and repository statistics are available directly on GitHub:
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Loora1N&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</div>
+<p align="center">
+  <a href="https://github.com/Loora1N?tab=overview">View GitHub contribution activity →</a>
+</p>
+
+> The previous third-party statistics and activity-graph image embeds have been removed to avoid broken images caused by external rendering services.
 
 <div align="center">
   <sub>Research · Build · Break · Understand</sub>
