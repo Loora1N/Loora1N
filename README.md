@@ -84,8 +84,6 @@ The live contribution calendar, activity timeline, and repository statistics are
   <a href="https://github.com/Loora1N?tab=overview">View GitHub contribution activity →</a>
 </p>
 
-> The previous third-party statistics and activity-graph image embeds have been removed to avoid broken images caused by external rendering services.
-
 <div align="center">
   <sub>Research · Build · Break · Understand</sub>
 </div>
