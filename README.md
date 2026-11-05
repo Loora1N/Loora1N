@@ -78,11 +78,13 @@ I work close to the metal: exploring how systems behave, how they fail, and how 
 
 ### GitHub Activity
 
-The live contribution calendar, activity timeline, and repository statistics are available directly on GitHub:
-
-<p align="center">
-  <a href="https://github.com/Loora1N?tab=overview">View GitHub contribution activity →</a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loora1N/Loora1N/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loora1N/Loora1N/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Loora1N/Loora1N/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 <div align="center">
   <sub>Research · Build · Break · Understand</sub>
